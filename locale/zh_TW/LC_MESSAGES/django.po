@@ -313,55 +313,55 @@ msgstr "序列確認正被停用"
 
 #: peeringdb_server/admin.py:343
 msgid "Verification Queue is currently disabled for this object type"
-msgstr ""
+msgstr "此物件形式的序列確認正被停用"
 
 #: peeringdb_server/admin.py:353
 msgid "APPROVE"
-msgstr ""
+msgstr "許可"
 
 #: peeringdb_server/admin.py:354
 msgid "DENY"
-msgstr ""
+msgstr "拒絕"
 
 #: peeringdb_server/admin.py:355
 msgid "APPROVED"
-msgstr ""
+msgstr "被許可"
 
 #: peeringdb_server/admin.py:424 peeringdb_server/admin.py:433
 msgid "Ipaddress already exists elsewhere"
-msgstr ""
+msgstr "IP地址已存在於其他地方"
 
 #: peeringdb_server/admin.py:452
 msgid "User is looking to be affiliated to these Organizations"
-msgstr ""
+msgstr "用戶希望加入這些組織"
 
 #: peeringdb_server/admin.py:483
 msgid "IXF Import History"
-msgstr ""
+msgstr "IXF匯入歷史紀錄"
 
 #: peeringdb_server/admin.py:532
 msgid "Initial creation of netixlan"
-msgstr ""
+msgstr "Netixlan初始建立"
 
 #: peeringdb_server/admin.py:552
 msgid "CAN BE ROLLED BACK"
-msgstr ""
+msgstr "可以回復"
 
 #: peeringdb_server/admin.py:556 peeringdb_server/admin.py:560
 msgid "CANNOT BE ROLLED BACK"
-msgstr ""
+msgstr "不可以回復"
 
 #: peeringdb_server/admin.py:556
 msgid "Has been changed since"
-msgstr ""
+msgstr "已經被修改自從"
 
 #: peeringdb_server/admin.py:561
 msgid "Netixlan with conflicting ipaddress now exists elsewhere"
-msgstr ""
+msgstr "有衝突IP地址的Netixlan現已存在在其他地方"
 
 #: peeringdb_server/admin.py:564
 msgid "HAS BEEN ROLLED BACK"
-msgstr ""
+msgstr "已經回復"
 
 #: peeringdb_server/admin.py:621
 #: peeringdb_server/templates/email/notify-pdb-admin-asnauto-affil.txt:6
