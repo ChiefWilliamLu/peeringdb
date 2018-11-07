@@ -317,7 +317,7 @@ msgstr "此物件形式的序列確認正被停用"
 
 #: peeringdb_server/admin.py:353
 msgid "APPROVE"
-msgstr "許可"
+msgstr "核准"
 
 #: peeringdb_server/admin.py:354
 msgid "DENY"
@@ -325,7 +325,7 @@ msgstr "拒絕"
 
 #: peeringdb_server/admin.py:355
 msgid "APPROVED"
-msgstr "被許可"
+msgstr "被核准"
 
 #: peeringdb_server/admin.py:424 peeringdb_server/admin.py:433
 msgid "Ipaddress already exists elsewhere"
@@ -525,143 +525,143 @@ msgstr "ASN自治號碼必須為數字"
 
 #: peeringdb_server/forms.py:71 peeringdb_server/views.py:695
 msgid "Needs to be at least 10 characters long"
-msgstr ""
+msgstr "長度必須至少10字元"
 
 #: peeringdb_server/forms.py:80
 msgid "Passwords need to match"
-msgstr ""
+msgstr "密碼必須符合"
 
 #: peeringdb_server/mail.py:57
 msgid "{} Merge Notification: {} -> {}"
-msgstr ""
+msgstr "{} 合併通知: {} -> {}"
 
 #: peeringdb_server/models.py:42
 #: peeringdb_server/templates/site/sponsorships.html:56
 msgid "Silver"
-msgstr ""
+msgstr "銀"
 
 #: peeringdb_server/models.py:42
 #: peeringdb_server/templates/site/sponsorships.html:43
 msgid "Gold"
-msgstr ""
+msgstr "金"
 
 #: peeringdb_server/models.py:42
 #: peeringdb_server/templates/site/sponsorships.html:28
 msgid "Platinum"
-msgstr ""
+msgstr "白金"
 
 #: peeringdb_server/models.py:43
 #: peeringdb_server/templates/site/sponsorships.html:12
 msgid "Diamond"
-msgstr ""
+msgstr "鑽石"
 
 #: peeringdb_server/models.py:45
 msgid "Data Validation"
-msgstr ""
+msgstr "資料驗證"
 
 #: peeringdb_server/models.py:45
 msgid "RIR"
-msgstr ""
+msgstr "區域網路註冊"
 
 #: peeringdb_server/models.py:48
 msgid "Renumber IP Space"
-msgstr ""
+msgstr "IP重新編號"
 
 #: peeringdb_server/models.py:49
 msgid "Merge Facilities"
-msgstr ""
+msgstr "合併設施"
 
 #: peeringdb_server/models.py:50
 msgid "Merge Facilities: UNDO"
-msgstr ""
+msgstr "合併設施: 還原"
 
 #: peeringdb_server/models.py:166
 msgid "Has this object's latitude and longitude been syncronized to it's address fields"
-msgstr ""
+msgstr "此物件之經緯度已與其地址同步"
 
 #: peeringdb_server/models.py:169
 msgid "Last time of attempted geocode"
-msgstr ""
+msgstr "最後一次嘗試地理標籤"
 
 #: peeringdb_server/models.py:172
 msgid "Error message of previous geocode attempt"
-msgstr ""
+msgstr "前一次嘗試地理標籤之錯誤訊息"
 
 #: peeringdb_server/models.py:219
 msgid "Address not found"
-msgstr ""
+msgstr "無法找到地址"
 
 #: peeringdb_server/models.py:227
 msgid "API Timeout"
-msgstr ""
+msgstr "API超時"
 
 #: peeringdb_server/models.py:253
 msgid "This organization in our database that was derived from the provided ASN or organization name. If this is empty it means no matching organization was found."
-msgstr ""
+msgstr "我們資料庫中的這個組織名稱是由提供的ASN或組織名稱產生, 若空白則表示無法找到相符之組織"
 
 #: peeringdb_server/models.py:258
 msgid "The organization name entered by the user"
-msgstr ""
+msgstr "用戶輸入之組織名稱"
 
 #: peeringdb_server/models.py:261
 msgid "The ASN entered by the user"
-msgstr ""
+msgstr "用戶輸入之ASN自治號碼"
 
 #: peeringdb_server/models.py:264
 msgid "The user that made the request"
-msgstr ""
+msgstr "提出此要求之用戶"
 
 #: peeringdb_server/models.py:270
 msgid "Pending"
-msgstr ""
+msgstr "擱置中"
 
 #: peeringdb_server/models.py:271
 msgid "Approved"
-msgstr ""
+msgstr "已核准"
 
 #: peeringdb_server/models.py:272
 msgid "Denied"
-msgstr ""
+msgstr "已拒絕"
 
 #: peeringdb_server/models.py:273
 msgid "Status of this request"
-msgstr ""
+msgstr "此要求之狀態"
 
 #: peeringdb_server/models.py:277
 msgid "User to Organization Affiliation Request"
-msgstr ""
+msgstr "用戶對組織的關聯要求"
 
 #: peeringdb_server/models.py:278
 msgid "User to Organization Affiliation Requests"
-msgstr ""
+msgstr "用戶對組織的關聯要求"
 
 #: peeringdb_server/models.py:335
 msgid "Your affiliation to Organization \"{}\" has been approved"
-msgstr ""
+msgstr "你對\"{}\"組織的關聯要求已被核准"
 
 #: peeringdb_server/models.py:362
 msgid "The item that this queue is attached to was created by this user"
-msgstr ""
+msgstr "此序列附加的項目已被此用戶產生"
 
 #: peeringdb_server/models.py:455
 msgid "Allows you to upload and set a logo image file for this organization"
-msgstr ""
+msgstr "允許您上傳並設定此組織之Logo影像檔"
 
 #: peeringdb_server/models.py:678
 msgid "Sponsorship starts on"
-msgstr ""
+msgstr "贊助期間開始於"
 
 #: peeringdb_server/models.py:680
 msgid "Sponsorship ends on"
-msgstr ""
+msgstr "贊助期間結束於"
 
 #: peeringdb_server/models.py:682
 msgid "Expiration notification sent on"
-msgstr ""
+msgstr "到期通知發送時間"
 
 #: peeringdb_server/models.py:685 peeringdb_server/models.py:743
 msgid "URL"
-msgstr ""
+msgstr "網址"
 
 #: peeringdb_server/models.py:686
 msgid "If specified clicking the sponsorship will take the user to this location"
