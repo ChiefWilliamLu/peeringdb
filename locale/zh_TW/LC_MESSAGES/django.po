@@ -369,159 +369,159 @@ msgstr "已經回復"
 #: peeringdb_server/views.py:959 peeringdb_server/views.py:1052
 #: peeringdb_server/views.py:1242
 msgid "Organization"
-msgstr ""
+msgstr "組織"
 
 #: peeringdb_server/admin.py:626
 msgid "Not Set"
-msgstr ""
+msgstr "未設定"
 
 #: peeringdb_server/admin.py:630 peeringdb_server/admin.py:661
 msgid "Logo Missing"
-msgstr ""
+msgstr "Logo消失"
 
 #: peeringdb_server/admin.py:631 peeringdb_server/admin.py:662
 msgid "Active"
-msgstr ""
+msgstr "主動"
 
 #: peeringdb_server/admin.py:633
 msgid "Over"
-msgstr ""
+msgstr "結束"
 
 #: peeringdb_server/admin.py:635
 msgid "Waiting"
-msgstr ""
+msgstr "等待中"
 
 #: peeringdb_server/admin.py:692
 msgid "Malformed organization ids"
-msgstr ""
+msgstr "組織識別格式錯誤"
 
 #: peeringdb_server/admin.py:699
 msgid "Merge target organization does not exist"
-msgstr ""
+msgstr "併入之目標組織不存在"
 
 #: peeringdb_server/admin.py:713
 msgid "Organization Merging Tool"
-msgstr ""
+msgstr "組織合併工具"
 
 #: peeringdb_server/admin.py:740 peeringdb_server/admin.py:751
 msgid "Undo merge"
-msgstr ""
+msgstr "復原合併"
 
 #: peeringdb_server/admin.py:840
 msgid "APPROVE selected items"
-msgstr ""
+msgstr "核准選取項目"
 
 #: peeringdb_server/admin.py:846
 msgid "DENY and delete selected items"
-msgstr ""
+msgstr "拒絕並刪除選取項目"
 
 #: peeringdb_server/admin.py:851
 msgid "View"
-msgstr ""
+msgstr "觀看"
 
 #: peeringdb_server/admin.py:870
 msgid "Affiliation request was approved and the user was notified."
-msgstr ""
+msgstr "聯絡要求已被核准並已通知用戶"
 
 #: peeringdb_server/admin.py:872
 msgid "Approve and notify User"
-msgstr ""
+msgstr "核准並通知用戶"
 
 #: peeringdb_server/admin.py:878
 #: peeringdb_server/templates/site/view_organization_tools.html:527
 msgid "Approve"
-msgstr ""
+msgstr "核准"
 
 #: peeringdb_server/admin.py:884
 #: peeringdb_server/templates/site/view_organization_tools.html:528
 msgid "Deny"
-msgstr ""
+msgstr "拒絕"
 
 #: peeringdb_server/admin.py:953
 #: peeringdb_server/templates/site/verify.html:217
 msgid "Change Password"
-msgstr ""
+msgstr "更改密碼"
 
 #: peeringdb_server/admin.py:963
 msgid "Edit Permissions"
-msgstr ""
+msgstr "編輯許可"
 
 #: peeringdb_server/admin.py:970
 msgid "VERIFIED"
-msgstr ""
+msgstr "已確認"
 
 #: peeringdb_server/admin.py:973
 msgid "UNVERIFIED"
-msgstr ""
+msgstr "未確認"
 
 #: peeringdb_server/admin.py:989
 msgid "User Permission"
-msgstr ""
+msgstr "用戶許可"
 
 #: peeringdb_server/admin.py:990
 msgid "User Permissions"
-msgstr ""
+msgstr "用戶許可"
 
 #: peeringdb_server/admin.py:1040
 msgid "Duplicate IP"
-msgstr ""
+msgstr "IP重複"
 
 #: peeringdb_server/admin.py:1041
 msgid "Duplicate IPs"
-msgstr ""
+msgstr "IP重複"
 
 #: peeringdb_server/admin.py:1168
 msgid "Updated"
-msgstr ""
+msgstr "已更新"
 
 #: peeringdb_server/admin.py:1287 peeringdb_server/admin.py:1319
 msgid "Only POST requests allowed."
-msgstr ""
+msgstr "僅允許發布請求"
 
 #: peeringdb_server/admin.py:1297
 msgid "{} (Preview)"
-msgstr ""
+msgstr "{} (預覽)"
 
 #: peeringdb_server/admin_commandline_tools.py:141
 msgid "Three leftmost octets of the original prefix - eg. xxx.xxx.xxx"
-msgstr ""
+msgstr "原前綴之最左側三個位元組- 例如: xxx.xxx.xxx"
 
 #: peeringdb_server/admin_commandline_tools.py:145
 msgid "Three leftmost octets of the new prefix - eg. xxx.xxx.xxx"
-msgstr ""
+msgstr "新前綴之最左側三個位元組- 例如: xxx.xxx.xxx"
 
 #: peeringdb_server/admin_commandline_tools.py:172
 msgid "Merge this facility - it will be deleted"
-msgstr ""
+msgstr "合併這個設施, 它將被刪除"
 
 #: peeringdb_server/admin_commandline_tools.py:177
 msgid "Target facility"
-msgstr ""
+msgstr "目標設施"
 
 #: peeringdb_server/admin_commandline_tools.py:208
 msgid "Undo this merge"
-msgstr ""
+msgstr "還原此合併"
 
 #: peeringdb_server/data_views.py:47 peeringdb_server/data_views.py:48
 #: peeringdb_server/templates/site/view_organization_tools.html:523
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #: peeringdb_server/export_views.py:140
 msgid "Invalid export format"
-msgstr ""
+msgstr "匯出格式無效"
 
 #: peeringdb_server/export_views.py:284
 msgid "Invalid tag"
-msgstr ""
+msgstr "無效標籤"
 
 #: peeringdb_server/forms.py:21
 msgid "Invalid permission level"
-msgstr ""
+msgstr "無效許可層級"
 
 #: peeringdb_server/forms.py:59
 msgid "ASN needs to be a number"
-msgstr ""
+msgstr "ASN自治號碼必須為數字"
 
 #: peeringdb_server/forms.py:71 peeringdb_server/views.py:695
 msgid "Needs to be at least 10 characters long"
